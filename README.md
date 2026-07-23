@@ -250,7 +250,7 @@ It is deliberately oversized to exaggerate the performance difference between re
 ## 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/react-performance-optimization.git
+git clone https://github.com/jyothishr44/react-performance-optimization.git
 ```
 
 ## 2️⃣ Navigate to the project
